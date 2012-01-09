@@ -2,7 +2,7 @@
 
 Markdown is fun to use and make simple text files.
 
-This is second paragraph in Markdown.
+This is a second paragraph in Markdown.
 
 ## Markdown docs
 
