@@ -1,6 +1,7 @@
 # Introduction to Git.
 
 Markdown is fun to use and make simple text files.
+
 This is second paragraph in Markdown.
 
 ## Markdown docs
