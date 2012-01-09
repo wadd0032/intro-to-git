@@ -3,7 +3,7 @@
 Markdown is fun to use and make simple text files.
 This is second paragraph in Markdown.
 
-## Mardown docs
+## Markdown docs
 
 [Docs](http://daringfireball.net/projects/markdown/syntax)
 
